@@ -13,4 +13,3 @@ Bronze can be made in a mixer from:
 - 1 tin ingots
 ## Tin
 Tin ore will now be generated underground. Tin is used to create bronze and decorations
-![alt text]([http://url/to/img.png](https://imgur.com/a/iVYYK7a))
