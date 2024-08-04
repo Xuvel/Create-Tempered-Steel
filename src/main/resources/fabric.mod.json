@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "createts",
+	"version": "${version}",
+	"name": "Create: Tempered Steel",
+	"description": "New way to make steel and bronze!",
+	"authors": [
+		"Xuvel"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/createts/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"org.xuvel.createts.CreateTS"
+		],
+		"client": [
+			"org.xuvel.createts.CreateTSClient"
+		]
+	},
+	"mixins": [
+		"createts.mixins.json",
+		{
+			"config": "createts.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

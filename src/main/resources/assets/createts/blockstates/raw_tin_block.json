@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "createts:block/raw_tin_block"
+    }
+  }
+}

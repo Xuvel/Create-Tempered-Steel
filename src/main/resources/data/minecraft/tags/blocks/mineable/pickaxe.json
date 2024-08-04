@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "createts:raw_tin_block",
+    "createts:tin_block",
+    "createts:tin_ore",
+    "createts:deepslate_tin_ore",
+    "createts:bronze_block",
+    "createts:steel_block"
+  ]
+}

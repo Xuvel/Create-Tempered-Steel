@@ -1,0 +1,19 @@
+{
+  "item.createts.tin_ingot": "Оловянный слиток",
+  "item.createts.raw_tin": "Рудное олово",
+  "item.createts.tin_nugget": "Оловянный самородок",
+  "item.createts.tin_ore": "Оловянная руда",
+  "block.createts.tin_ore": "Оловянная руда",
+  "item.createts.tin_block": "Оловянный блок",
+  "block.createts.tin_block": "Оловянный блок",
+  "item.createts.deepslate_tin_ore": "Оловоносный глубинный сланец",
+  "block.createts.deepslate_tin_ore": "Оловоносный глубинный сланец",
+  "item.createts.raw_tin_block": "Блок рудного олова",
+  "block.createts.raw_tin_block": "Блок рудного олова",
+  "item.createts.bronze_ingot": "Бронзовый слиток",
+  "item.createts.bronze_block": "Бронзовый блок",
+  "block.createts.bronze_block": "Бронзовый блок",
+  "item.createts.steel_ingot": "Стальной слиток",
+  "item.createts.steel_block": "Стальной блок",
+  "block.createts.steel_block": "Стальной блок"
+}

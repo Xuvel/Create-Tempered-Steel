@@ -1,0 +1,19 @@
+{
+  "item.createts.tin_ingot": "Tin Ingot",
+  "item.createts.raw_tin": "Raw Tin",
+  "item.createts.tin_nugget": "Tin Nugget",
+  "item.createts.tin_ore": "Tin Ore",
+  "block.createts.tin_ore": "Tin Ore",
+  "item.createts.tin_block": "Tin Block",
+  "block.createts.tin_block": "Tin Block",
+  "item.createts.deepslate_tin_ore": "Deepslate Tin Ore",
+  "block.createts.deepslate_tin_ore": "Deepslate Tin Ore",
+  "item.createts.raw_tin_block": "Raw Tin Block",
+  "block.createts.raw_tin_block": "Raw Tin Block",
+  "item.createts.bronze_ingot": "Bronze Ingot",
+  "item.createts.bronze_block": "Bronze Block",
+  "block.createts.bronze_block": "Bronze Block",
+  "item.createts.steel_ingot": "Steel Ingot",
+  "item.createts.steel_block": "Steel Block",
+  "block.createts.steel_block": "Steel Block"
+}

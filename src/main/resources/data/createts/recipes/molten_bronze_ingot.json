@@ -1,0 +1,16 @@
+{
+  "type": "createbigcannons:melting",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "createts:bronze_ingot"
+    }
+  ],
+  "processingTime": 180,
+  "results": [
+    {
+      "amount": 7290,
+      "fluid": "createbigcannons:molten_bronze"
+    }
+  ]
+}

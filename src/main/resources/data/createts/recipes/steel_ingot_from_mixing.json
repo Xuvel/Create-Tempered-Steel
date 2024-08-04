@@ -1,0 +1,30 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:charcoal"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "createbigcannons:cast_iron_ingot"
+    },
+    {
+      "item": "createbigcannons:cast_iron_ingot"
+    },
+    {
+      "item": "createbigcannons:cast_iron_ingot"
+    },
+    {
+      "item": "createbigcannons:cast_iron_ingot"
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "item": "createts:steel_ingot"
+    }
+  ]
+}
