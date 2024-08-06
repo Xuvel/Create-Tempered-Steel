@@ -16,8 +16,10 @@ public class ModItems {
     public static final Item TIN_NUGGET = registerItem("tin_nugget", new Item(new FabricItemSettings()));
     // Bronze
     public static final Item BRONZE_INGOT = registerItem("bronze_ingot", new Item(new FabricItemSettings()));
+    public static final Item BRONZE_NUGGET = registerItem("bronze_nugget", new Item(new FabricItemSettings()));
     // Steel
     public static final Item STEEL_INGOT = registerItem("steel_ingot", new Item(new FabricItemSettings()));
+    public static final Item STEEL_NUGGET = registerItem("steel_nugget", new Item(new FabricItemSettings()));
 
     public static Item registerItem(String id, Item item) { return Registry.register(Registries.ITEM, new Identifier(CreateTS.MODID, id), item);}
     public static Item registerItem(String id, Item item, RegistryKey<ItemGroup> itemGroup) {

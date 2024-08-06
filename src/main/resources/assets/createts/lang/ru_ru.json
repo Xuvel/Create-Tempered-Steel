@@ -13,7 +13,9 @@
   "item.createts.bronze_ingot": "Бронзовый слиток",
   "item.createts.bronze_block": "Бронзовый блок",
   "block.createts.bronze_block": "Бронзовый блок",
+  "item.createts.bronze_nugget": "Кусочек бронзы",
   "item.createts.steel_ingot": "Стальной слиток",
   "item.createts.steel_block": "Стальной блок",
-  "block.createts.steel_block": "Стальной блок"
+  "block.createts.steel_block": "Стальной блок",
+  "item.createts.steel_nugget": "Кусочек стали"
 }

@@ -19,7 +19,9 @@ public class ModItemGroups {
                     entries.add(ModItems.RAW_TIN);
                     entries.add(ModItems.TIN_NUGGET);
                     entries.add(ModItems.BRONZE_INGOT);
+                    entries.add(ModItems.BRONZE_NUGGET);
                     entries.add(ModItems.STEEL_INGOT);
+                    entries.add(ModItems.STEEL_NUGGET);
                     entries.add(ModBlocks.TIN_BLOCK);
                     entries.add(ModBlocks.RAW_TIN_BLOCK);
                     entries.add(ModBlocks.BRONZE_BLOCK);
