@@ -11,11 +11,14 @@
   "item.createts.raw_tin_block": "Raw Tin Block",
   "block.createts.raw_tin_block": "Raw Tin Block",
   "item.createts.bronze_ingot": "Bronze Ingot",
+  "item.createts.bronze_sheet": "Bronze Sheet",
   "item.createts.bronze_block": "Bronze Block",
   "block.createts.bronze_block": "Bronze Block",
   "item.createts.bronze_nugget": "Bronze Nugget",
+  "item.createts.bronze_knife": "Bronze Knife",
   "item.createts.steel_ingot": "Steel Ingot",
   "item.createts.steel_block": "Steel Block",
   "block.createts.steel_block": "Steel Block",
-  "item.createts.steel_nugget": "Steel Nugget"
+  "item.createts.steel_nugget": "Steel Nugget",
+  "item.createts.steel_knife": "Steel Knife"
 }

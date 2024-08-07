@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "createts:bronze_ingot",
+    "create:brass_ingot"
+  ]
+}

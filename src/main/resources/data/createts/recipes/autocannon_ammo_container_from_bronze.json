@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "c:ammo_container_materials"
+    },
+    "I": {
+      "item": "create:iron_sheet"
+    }
+  },
+  "pattern": [
+    " # ",
+    "I I",
+    "III"
+  ],
+  "result": {
+    "item": "createbigcannons:autocannon_ammo_container"
+  }
+}

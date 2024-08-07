@@ -1,0 +1,14 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "createts:bronze_sheet"
+    }
+  ],
+  "results": [
+    {
+      "count": 6,
+      "item": "createbigcannons:autocannon_cartridge_sheet"
+    }
+  ]
+}

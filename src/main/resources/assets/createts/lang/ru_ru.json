@@ -11,11 +11,14 @@
   "item.createts.raw_tin_block": "Блок рудного олова",
   "block.createts.raw_tin_block": "Блок рудного олова",
   "item.createts.bronze_ingot": "Бронзовый слиток",
+  "item.createts.bronze_sheet": "Бронзовый лист",
   "item.createts.bronze_block": "Бронзовый блок",
   "block.createts.bronze_block": "Бронзовый блок",
   "item.createts.bronze_nugget": "Кусочек бронзы",
+  "item.createts.bronze_knife": "Бронзовый нож",
   "item.createts.steel_ingot": "Стальной слиток",
   "item.createts.steel_block": "Стальной блок",
   "block.createts.steel_block": "Стальной блок",
-  "item.createts.steel_nugget": "Кусочек стали"
+  "item.createts.steel_nugget": "Кусочек стали",
+  "item.createts.steel_knife": "Стальной нож"
 }
