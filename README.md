@@ -18,4 +18,4 @@ I use textures from **[Create: Dreams & Desires](https://modrinth.com/mod/create
 # Compatibility
 **The mod is not compatible with [Create: Dreams & Desires](https://modrinth.com/mod/create-dreams-and-desires), [Ad Astra](https://modrinth.com/mod/ad-astra) and other mods that adds steel, bronze and tin. Compatibility with these mods is planned in the future.**
 
-![All stuff of mod](https://cdn.modrinth.com/data/cached_images/d6314a9778a62b595ffd1b8d06cdf7e404e10a63.png)
+![All stuff of mod](https://cdn.modrinth.com/data/cached_images/365b2a6901957de38952caf6f789b9b50a56d833.png)
