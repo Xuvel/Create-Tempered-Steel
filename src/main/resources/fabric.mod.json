@@ -36,5 +36,8 @@
 		"fabric-api": "*",
 		"create": "*",
 		"createbigcannons": "*"
+	},
+	"suggests": {
+		"farmersdelight": "*"
 	}
 }

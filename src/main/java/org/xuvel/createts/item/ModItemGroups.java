@@ -1,6 +1,7 @@
 package org.xuvel.createts.item;
 
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
+import net.fabricmc.loader.api.FabricLoader;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 import net.minecraft.registry.Registries;
@@ -9,6 +10,7 @@ import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
 import org.xuvel.createts.CreateTS;
 import org.xuvel.createts.block.ModBlocks;
+import org.xuvel.createts.compat.farmersdelight.RegisterKnives;
 
 public class ModItemGroups {
         public static final ItemGroup MAIN_GROUP = Registry.register(Registries.ITEM_GROUP, new Identifier("tutorial", "test_group"), FabricItemGroup.builder()
@@ -29,8 +31,10 @@ public class ModItemGroups {
                     entries.add(ModBlocks.STEEL_BLOCK);
                     entries.add(ModBlocks.TIN_ORE);
                     entries.add(ModBlocks.DEEPSLATE_TIN_ORE);
-//                    entries.add(ModItems.STEEL_KNIFE);
-//                    entries.add(ModItems.BRONZE_KNIFE);
+                    if (CreateTS.isFarmersDelightLoaded) {
+                        entries.add(RegisterKnives.STEEL_KNIFE);
+                        entries.add(RegisterKnives.BRONZE_KNIFE);
+                    }
                 })
                 .build());
     public static void register() {
